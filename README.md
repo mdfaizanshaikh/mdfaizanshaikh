@@ -1,16 +1,40 @@
-## Hi there 👋
+## 👋 Hi, I'm Faizan Shaikh  
 
-<!--
-**mdfaizanshaikh/mdfaizanshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | 📊 Data Science Instructor | 🧠 Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+I am a results-driven **Data Analyst and Data Science Instructor** with hands-on experience in transforming raw data into actionable insights and training students in real-world data science applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 What I Do
+- Analyze structured & unstructured data to support business decisions  
+- Build interactive dashboards using **Power BI & Excel**  
+- Develop end-to-end **Machine Learning projects**  
+- Train students in **Python, SQL, Statistics, and ML concepts**
+
+---
+
+### 🛠️ Technical Skills
+- **Languages:** Python, SQL  ,R 
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Visualization:** Power BI, Tableau, Advance Excel  
+- **Databases:** MySQL  
+- **Concepts:** EDA, Feature Engineering, Model Evaluation  
+- **Tools:** Git, GitHub, Jupyter Notebook  
+
+---
+
+### 📂 Featured Projects
+- 📈 Sales Forecasting System (ML)
+- 📊 Power BI Business Dashboard
+- 🧮 Data Cleaning & EDA Projects
+- 🤖 Machine Learning Models (Regression, Classification)
+
+---
+
+### 🎓 Teaching Experience
+- Trained students in **Data Analytics & Data Science**
+- Explained complex topics using **real-life examples**
+- Focused on **industry-oriented learning**
+
+📫 Connect with me: LinkedIn | Email
