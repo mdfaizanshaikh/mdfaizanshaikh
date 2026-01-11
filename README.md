@@ -8,7 +8,7 @@ I am a results-driven **Data Analyst and Data Science Instructor** with hands-on
 
 ### 🔍 What I Do
 - Analyze structured & unstructured data to support business decisions  
-- Build interactive dashboards using **Power BI & Excel**  
+- Build interactive dashboards using **Power BI , Tableau, Advance Excel**  
 - Develop end-to-end **Machine Learning projects**  
 - Train students in **Python, SQL, Statistics, and ML concepts**
 
