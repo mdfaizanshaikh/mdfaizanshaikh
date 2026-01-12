@@ -2,12 +2,14 @@
 
 🎯 Data Analyst |  Data Science Instructor | Power BI Developer  
 
-I am a results-driven **Data Analyst and Data Science Instructor** with hands-on experience in transforming raw data into actionable insights and training students in real-world data science applications.
+I am a results-driven **Data Analyst , Power Bi Developer and Data Science Instructor** with hands-on experience in transforming raw data into actionable insights and training students in real-world data science applications.
 
 ---
 
 ### 🔍 What I Do
-- Analyze structured & unstructured data to support business decisions  
+- Analyze structured & unstructured data to support business decisions
+- Delivered clean, performance-optimized datasets for reporting and analytics
+- Clean, transform, and prepare data using Power Query (ETL)  
 - Build interactive dashboards using **Power BI , Tableau, Advance Excel**  
 - Develop end-to-end **Machine Learning projects**  
 - Train students in **Python, SQL, Statistics, and ML concepts**
@@ -24,16 +26,9 @@ I am a results-driven **Data Analyst and Data Science Instructor** with hands-on
 
 ---
 
-### 📂 Featured Projects
-- 📈 Sales Forecasting System (ML)
-- 📊 Power BI Business Dashboard
-- 🧮 Data Cleaning & EDA Projects
-- 🤖 Machine Learning Models (Regression, Classification)
-
----
 
 ### 🎓 Teaching Experience
-- Trained students in **Data Analytics & Data Science**
+- Trained students in **Data Analytics, Power Bi Developer & Data Science**
 - Explained complex topics using **real-life examples**
 - Focused on **industry-oriented learning**
 
