@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Faizan Shaikh  
 
-🎯 Data Analyst | 📊 Data Science Instructor | 🧠 Machine Learning Enthusiast  
+🎯 Data Analyst |  Data Science Instructor | Power BI Developer  
 
 I am a results-driven **Data Analyst and Data Science Instructor** with hands-on experience in transforming raw data into actionable insights and training students in real-world data science applications.
 
