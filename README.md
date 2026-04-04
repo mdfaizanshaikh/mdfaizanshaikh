@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Faizan Shaikh  
 
-🎯 Data Analyst |  Data Science Instructor | Power BI Developer  
+🎯 Data Analyst |  Data Science | Power BI Developer | SAP FICO  Instructor  
 
 I am a results-driven **Data Analyst , Power Bi Developer and Data Science Instructor** with hands-on experience in transforming raw data into actionable insights and training students in real-world data science applications.
 
